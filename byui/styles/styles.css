@@ -3,11 +3,14 @@ nav, footer {
     color: white;
     padding: 2%;
 }
-footer p {
-    font-size: 20px;
-    margin: 20px auto;
-}
 a:hover {
     background-color: white;
     color: steelblue;
+}
+img {
+    width: 30%;
+}
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
 }
